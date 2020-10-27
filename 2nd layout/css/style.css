@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: bisque;
+    height: 100px;
+}
+.header h1{
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 30px;
+}
+.navigation_bar{
+    background-color: rgb(233, 221, 206);
+    height: 300px;
+    margin-top: 5px;
+}
+.navigation_bar h1{
+    color:rgb(12, 12, 12);
+    text-align: center;
+    padding: 120px;
+}
+.wrappe{
+    overflow: hidden;
+}
+.main_part{
+    background-color: burlywood;
+    height: 600px;
+    margin-top: 5px;
+}
+.left{
+    background-color: cadetblue;
+    height: 100%;
+    width: 60%;
+    float: left;
+}
+
+.left_top{
+background-color:rgb(102, 147, 231);
+height: 50%;
+width: 100%;
+}
+.left_top h1{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.left_bottom{
+    background-color:rgb(223, 63, 95);
+    height: 50%;
+    width: 100%;
+}
+.left_bottom h1{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.right{
+    background-color: rgb(66, 127, 129);
+    height: 100%;
+    width: 40%;
+    float: right;
+}
+.right h1{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.footer{
+    background-color: rgb(250, 216, 165);
+    height: 100px;
+    margin-top: 5px; 
+}
+.footer h1{
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding-top: 30px;
+}
